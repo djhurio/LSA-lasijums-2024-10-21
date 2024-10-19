@@ -1,0 +1,59 @@
+---
+title: "LSA 25 gados dažādām jomām un dažādām paaudzēm"
+date: "2024-10-21"
+author: "Mārtiņš Liberts"
+institute: "matemātiķis, statistiķis, datu zinātnieks"
+format:
+  revealjs:
+    theme: night
+    width: 1600
+    height: 900
+    embed-resources: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Vēsture
+
+## Mana LSA vēsture
+
+-   Kopš 2010. gada esmu Latvijas Statistiķu asociācijas (LSA) biedrs
+-   2013\. gadā pirmā vieta LSA konkursā par ieguldījumu statistikas zinātniskajos pētījumos
+-   Kopš 2015. gada LSA mājas lapas administrators
+-   Kopš 2018. gada LSA valdes loceklis (2022. gadā pārvēlēts)
+
+## Ieguvumi
+
+-   Kontakti un atpazīstamība
+-   Gods
+-   Bezpeļņas sabiedriskais darbs
+
+# Tagadne
+
+## Datu zinātnieks un statistiķis
+
+-   Kopš 2022. gada pamatdarbā esmu datu zinātnieks
+-   Vai statistiķis ir datu zinātnieks?
+-   Latvijā šobrīd nav datu zinātnieku asociācijas
+    -   Vai šī ir iespēja LSA?
+
+# Nākotne
+
+## Vai LSA ir nākotne?
+
+-   Vai profesionālajām asociācijām un biedrībām ir nākotne?
+-   Biedru skaits samazinās
+    -   No tiem aktīvo biedru skaits iespējams samazinās vēl straujāk
+
+## ISI biedru skaits
+
+![](images/ISI-members.png){fig-align="center"}
+
+## Asociācija kā sadarbības forma
+
+-   Mūsdienās ir maz argumentu, lai pārliecinātu potenciālos jaunos biedrus
+-   Vai šādai sadarbības formai ir nākotne?
+
+## Sveicu LSA 25 gadu jubilejā!
+
+![](images/LSA-2.jpg){fig-align="center"}
