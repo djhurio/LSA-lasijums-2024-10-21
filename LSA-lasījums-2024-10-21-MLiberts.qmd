@@ -17,25 +17,30 @@ editor_options:
 
 ## Mana LSA vēsture
 
--   Kopš 2010. gada esmu Latvijas Statistiķu asociācijas (LSA) biedrs
--   2013\. gadā pirmā vieta LSA konkursā par ieguldījumu statistikas zinātniskajos pētījumos
--   Kopš 2015. gada LSA mājas lapas administrators
--   Kopš 2018. gada LSA valdes loceklis (2022. gadā pārvēlēts)
+- Kopš 2010\. gada LSA biedrs
+- 2013\. gadā:
+    - pirmā vieta LSA konkursā par ieguldījumu statistikas zinātniskajos pētījumos
+    - lasījums "Jaunumi iedzīvotāju skaita novērtēšanas metodoloģijā" kopā ar Baibu Zukulu
+- 2014\. gadā lasījums "Simulācijas eksperimentu izmantošana apsekojumu izmaksu efektivitātes novērtēšanā"
+- Kopš 2015\. gada LSA mājas lapas administrators
+- 2016\. gadā lasījums "Izlases kļūdu novērtēšana ar programmas R bibliotēku *vardpoor*" kopā ar Juri Breidaku
+- Kopš 2018\. gada LSA valdes loceklis (2022. gadā pārvēlēts)
 
 ## Ieguvumi
 
--   Kontakti un atpazīstamība
--   Gods
--   Bezpeļņas sabiedriskais darbs
+- Kontakti
+- Atpazīstamība
+- Gods
+- Bezpeļņas sabiedriskais darbs
 
 # Tagadne
 
 ## Datu zinātnieks un statistiķis
 
--   Kopš 2022. gada pamatdarbā esmu datu zinātnieks
--   Vai statistiķis ir datu zinātnieks?
--   Latvijā šobrīd nav datu zinātnieku asociācijas
-    -   Vai šī ir iespēja LSA?
+- Kopš 2022. gada pamatdarbā esmu datu zinātnieks
+- Vai statistiķis ir datu zinātnieks?
+- Latvijā šobrīd nav datu zinātnieku asociācijas
+    - Vai šī ir iespēja LSA?
 
 # Nākotne
 
